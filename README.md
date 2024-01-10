@@ -1,4 +1,5 @@
 Travel Checklist App
+
 Overview
 The Travel Checklist App is a user-friendly React application designed to assist travelers in creating and managing their travel checklists. This application allows users to seamlessly add, delete, and toggle the status of items on their checklist. Additionally, users can view insightful statistics regarding their travel preparations.
 
